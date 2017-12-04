@@ -2,7 +2,7 @@
 > Article content migrated to [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs). Please use that for any actual documentation articles.
 
 # PnP-Guidance
-Old source for the Office 365 development and SharePoint patterns and practices solution guidance MSDN pages, whcih have been now merged with the other SharePoint development guidance at [docs.microsoft.com](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/office-365-development-patterns-and-practices-solution-guidance). 
+Old source for the Office 365 development and SharePoint patterns and practices solution guidance MSDN pages, which have been now merged with the other SharePoint development guidance at [docs.microsoft.com](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/office-365-development-patterns-and-practices-solution-guidance). 
 
 If you are looking into contributing to this material, please use [sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) repository.
 
